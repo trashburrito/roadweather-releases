@@ -2,9 +2,9 @@
 
 # RoadWeather
 
-**Free, ad-free weather for the road — made for my dad, a truck driver.**
+**Free, ad-free weather for the road. Made for my dad, a truck driver.**
 
-[**⬇ Download the latest version**](https://github.com/trashburrito/roadweather-releases/releases/latest) · Android 8 or newer · English & Español
+[**Download the latest version**](https://github.com/trashburrito/roadweather-releases/releases/latest) (Android 8 or newer, English and Spanish)
 
 <img src="images/showcase.png" alt="RoadWeather: Today, Radar, Wind and Road conditions screens" width="100%">
 
@@ -12,10 +12,8 @@
 
 ## Why I made this
 
-My dad drives a truck for a living. Out on the highway, the weather that matters isn't "sunny, 72°" — it's how hard the
-wind is gusting across an open stretch, whether snow is coming over the pass, and what the road ahead is doing right
-now. I wanted him to have one app that puts **wind, snow and road conditions** first, shows the radar clearly, works in
-**English and Spanish**, and has **no ads** — so I built RoadWeather for him.
+My dad drives a truck for a living. On the road he needs to know about wind, snow and road conditions, so I built
+him a weather app that shows those first. It has radar, works in English and Spanish, and has no ads.
 
 It's free, and anyone can use it.
 
@@ -25,14 +23,14 @@ It's free, and anyone can use it.
 <tr>
 <td width="33%" valign="top"><img src="images/today.png" alt="Today screen"><br><b>Today</b><br>Temperature, feels-like, high and low, the next hours, rain chance, wind and humidity at a glance.</td>
 <td width="33%" valign="top"><img src="images/radar.png" alt="Radar screen"><br><b>Radar</b><br>Live NOAA radar on a real map with a one-hour loop. Every frame shows its time and source.</td>
-<td width="33%" valign="top"><img src="images/wind.png" alt="Wind layer"><br><b>Wind</b><br>Wind arrows and gusts on the map — now, +3, +6 and +12 hours — plus wind alerts for your spot.</td>
+<td width="33%" valign="top"><img src="images/wind.png" alt="Wind layer"><br><b>Wind</b><br>Wind arrows and gusts on the map for now, +3, +6 and +12 hours, plus wind alerts for your spot.</td>
 </tr>
 <tr>
 <td valign="top"><img src="images/road.png" alt="Road conditions card"><br><b>Road conditions</b><br>What it's doing right now from the nearest weather station, the next 12 hours, and road-impact alerts. Tap anywhere on the map to check a town up the road.</td>
 <td valign="top"><img src="images/forecast.png" alt="Forecast screen"><br><b>Forecast</b><br>Hourly, daily and extended forecast with a temperature graph.</td>
 <td valign="top"><b>Also</b>
 <ul>
-<li><b>Snow</b> on the map: snow on the ground, snowfall in the next 24–72 hours, winter alerts</li>
+<li><b>Snow</b> on the map: snow on the ground, snowfall in the next 24 to 72 hours, winter alerts</li>
 <li>Search any place and save the ones you use</li>
 <li>Big buttons and large text, easy to read at a glance</li>
 <li>Works offline with the last weather it loaded, and says so</li>
@@ -45,7 +43,7 @@ It's free, and anyone can use it.
 
 1. On your Android phone, open **[the latest release](https://github.com/trashburrito/roadweather-releases/releases/latest)** and tap **RoadWeather-1.2.apk** to download it.
 2. Open the downloaded file. If Android asks, allow **Install unknown apps** for the browser or Files app you used.
-3. Tap **Install**. Google Play Protect may say the developer is unknown: tap **More details → Install anyway**.
+3. Tap **Install**. Google Play Protect may say the developer is unknown: tap **More details**, then **Install anyway**.
 4. Open RoadWeather and allow location, so it shows the weather where you are.
 
 **Updating:** install the newer APK the same way. It replaces the old one and keeps your saved places.
@@ -54,11 +52,11 @@ test build. From 1.2 on, updates install over the top.
 
 ## Honest weather
 
-RoadWeather only shows real data from free public sources, and labels each one with its time and whether it's
-**observed** or a **forecast**. When data is missing, old, or the phone is offline, the app says so instead of guessing.
+RoadWeather only shows real data from free public sources. Each one is labelled with its time and whether it is
+observed or a forecast. When data is missing, old, or the phone is offline, the app says so.
 
-Sources: U.S. National Weather Service · NOAA nowCOAST and NOHRSC · RainViewer · Open-Meteo · OpenFreeMap /
-OpenStreetMap · Photon. Alerts and station observations cover the U.S.; elsewhere the app uses forecast models and says so.
+Sources: U.S. National Weather Service, NOAA nowCOAST and NOHRSC, RainViewer, Open-Meteo, OpenFreeMap /
+OpenStreetMap, and Photon. Alerts and station observations cover the U.S.; elsewhere the app uses forecast models and says so.
 
 ## Check the download (optional)
 
